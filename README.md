@@ -12,14 +12,14 @@
 <h4 align="center">Programming languages and HTML</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,html,css" />
   </a>
 </p>
 
 <h4 align="center">Frameworks and Libraries</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=react,nestjs" />
   </a>
 </p>
 
@@ -27,13 +27,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,notion,figma" />
-  </a>
-</p>
-
-<h4 align="center">☁ Cloud and Providers</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,mysql" />
   </a>
 </p>
 
